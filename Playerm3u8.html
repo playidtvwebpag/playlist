@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	body {
+		margin:0px;
+	}
+	div {
+		padding:0px;
+	}
+</style>
+</head>
+<body>
+<div>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<video id="video" controls="controls" width="100%" align="center" ></video><script>
+var video = document.getElementById("video");
+if(Hls.isSupported()){
+	var hls = new Hls();
+	hls.loadSource("");
+	hls.attachMedia(video);
+	hls.on(Hls.Events.MANIFEST_PARSED,function()
+	{
+		video.play();
+	});
+}
+else if (video.canPlayType("application/vnd.apple.mpegurl"))
+{
+	video.src = "https://raw.githubusercontent.com/Playidturl1/Playidturl1/main/playlist/ch7hd";
+	video.addEventListener("canplay",function()
+	{
+		video.play();
+	});
+}
+</script></div>
+</body>
+</html>
