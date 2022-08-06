@@ -1,0 +1,1089 @@
+{
+"name": "รายการโทรทัศน์รวม",
+"author": "อัพเดทตามเว็บต้นทาง",
+"url": "",
+"image": "https://dl.dropbox.com/s/kgjib3gbca6gice/20220124_1433251.gif?dl=0",
+"info": "category",
+"stations": [
+{
+"name": "truesporthd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+"url": "https://www.doofootball.com/dootv/live/truesporthd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesporthd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truesporthd2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-010714-tv-station_True-Sport-HD2.png",
+"url": "https://www.doofootball.com/dootv/live/truesporthd2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesporthd2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truesporthd3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-090950-tv-station_True-Sport-HD3.png",
+"url": "https://www.doofootball.com/dootv/live/truesporthd3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesporthd3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "epl1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012819-tv-station_True-Premier-HD-1.png",
+"url": "https://www.doofootball.com/dootv/live/epl1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "epl2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012910-tv-station_True-Premier-HD-2.png",
+"url": "https://www.doofootball.com/dootv/live/epl2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "epl3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png",
+"url": "https://www.doofootball.com/dootv/live/epl3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "epl4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012953-tv-station_True-Premier-HD-4.png",
+"url": "https://www.doofootball.com/dootv/live/epl4#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl4",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "epl5",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-013009-tv-station_True-Premier-HD-5.png",
+"url": "https://www.doofootball.com/dootv/live/epl5#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl5",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "true4u",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010749-tv-station_True-4-U.png",
+"url": "https://www.doofootball.com/dootv/live/true4u#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/true4u",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "trueidstation",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010814-tv-station_TrueID-station.png",
+"url": "https://www.doofootball.com/dootv/live/trueidstation#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/trueidstation",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truesport5",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011054-tv-station_True-sport-5.png",
+"url": "https://www.doofootball.com/dootv/live/truesport5#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesport5",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truesport7",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011125-tv-station_True-sport-7.png",
+"url": "https://www.doofootball.com/dootv/live/truesport7#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesport7",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truenba",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-075143-tv-station_NBA.png",
+"url": "https://www.doofootball.com/dootv/live/truenba#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truenba",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truetennis",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105042-true-tennis-hd.png",
+"url": "https://www.doofootball.com/dootv/live/truetennis#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truetennis",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "golfchannel",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105107-golf-channel.png",
+"url": "https://www.doofootball.com/dootv/live/golfchannel#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/golfchannel",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "bein1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-125801-tv-station_Thai-BeIN-Sports-1.png",
+"url": "https://www.doofootball.com/dootv/live/bein1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/bein1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "bein2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094629-tv-station_beIN-Sports-2-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/bein2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/bein2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinmax4fr",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-091006-tv-station_beIN-Sports-Max-4-(FR).png",
+"url": "https://www.doofootball.com/dootv/live/beinmax4fr#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinmax4fr",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinmax5fr",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-120805-tv-station_beIN-Sports-5-Max.png",
+"url": "https://www.doofootball.com/dootv/live/beinmax5fr#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinmax5fr",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinmax6fr",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-120751-tv-station_beIN-Sports-6-Max.png",
+"url": "https://www.doofootball.com/dootv/live/beinmax6fr#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinmax6fr",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsport1fr",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-091023-tv-station_beIN-Sports-1-(FR).png",
+"url": "https://www.doofootball.com/dootv/live/beinsport1fr#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsport1fr",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsport2fr",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-120733-tv-station_beIN-Sports-2-(FR).png",
+"url": "https://www.doofootball.com/dootv/live/beinsport2fr#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsport2fr",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "btsport1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094456-tv-station_BT-Sport-1-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/btsport1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/btsport1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "btsport2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121224-tv-station_BT-Sport-2-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/btsport2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/btsport2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "btsport3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095225-tv-station_BT-Sport-3-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/btsport3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/btsport3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "btsportespn",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121213-tv-station_BT-Sport-ESPN-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/btsportespn#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/btsportespn",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "arenasport2serbia",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023302-tv-station_Areana-Sport-2-(SR).png",
+"url": "https://www.doofootball.com/dootv/live/arenasport2serbia#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/arenasport2serbia",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "arenasport3serbia",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023320-tv-station_Areana-Sport-3-(SR)-.png",
+"url": "https://www.doofootball.com/dootv/live/arenasport3serbia#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/arenasport3serbia",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "arenasport4serbia",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023337-tv-station_Areana-Sport-4-(SR).png",
+"url": "https://www.doofootball.com/dootv/live/arenasport4serbia#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/arenasport4serbia",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "astrosupersport",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024243-tv-station_Astro-Supersport--(MY).png",
+"url": "https://www.doofootball.com/dootv/live/astrosupersport#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/astrosupersport",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "astrosupersport2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024323-tv-station_Astro-Supersport-2-(MY).png",
+"url": "https://www.doofootball.com/dootv/live/astrosupersport2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/astrosupersport2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "astrosupersport3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024338-tv-station_Astro-Supersport-3-(MY).png",
+"url": "https://www.doofootball.com/dootv/live/astrosupersport3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/astrosupersport3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "astrosupersport4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024353-tv-station_Astro-Supersport-4-(MY).png",
+"url": "https://www.doofootball.com/dootv/live/astrosupersport4#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/astrosupersport4",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsportsarabia1hd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024708-tv-station_beIN-Sports-1-(AR).png",
+"url": "https://www.doofootball.com/dootv/live/beinsportsarabia1hd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsportsarabia1hd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsportsarabia2hd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024726-tv-station_beIN-Sports-2-(AR).png",
+"url": "https://www.doofootball.com/dootv/live/beinsportsarabia2hd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsportsarabia2hd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsportsarabia3hd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024754-tv-station_beIN-Sports-3-(AR).png",
+"url": "https://www.doofootball.com/dootv/live/beinsportsarabia3hd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsportsarabia3hd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsports1au",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png",
+"url": "https://www.doofootball.com/dootv/live/beinsports1au#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsports1au",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsports2au",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-023818-tv-station_bEin-Sports-2-(AU).png",
+"url": "https://www.doofootball.com/dootv/live/beinsports2au#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsports2au",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsports1tu",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025748-tv-station_bEin-Sports-1-(TU).png",
+"url": "https://www.doofootball.com/dootv/live/beinsports1tu#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsports1tu",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "beinsports2tu",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025806-tv-station_bEin-Sports-2-(TU).png",
+"url": "https://www.doofootball.com/dootv/live/beinsports2tu#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/beinsports2tu",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "digisport1romania",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030001-tv-station_Digi-Sport-1-(RM).png",
+"url": "https://www.doofootball.com/dootv/live/digisport1romania#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/digisport1romania",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "digisport2romania",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030020-tv-station_Digi-Sport-2-(RM).png",
+"url": "https://www.doofootball.com/dootv/live/digisport2romania#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/digisport2romania",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "digisport3romania",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030048-tv-station_Digi-Sport-3-(RM).png",
+"url": "https://www.doofootball.com/dootv/live/digisport3romania#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/digisport3romania",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "digisport4romania",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030109-tv-station_Digi-Sport-4-(RM).png",
+"url": "https://www.doofootball.com/dootv/live/digisport4romania#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/digisport4romania",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsporthd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030215-tv-station_Fox-Sports-HD-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/foxsporthd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsporthd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030242-tv-station_Fox-Sports-2-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030259-tv-station_Fox-Sports-3-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsports1usa",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030402-tv-station_Fox-Sports-1-(US).png",
+"url": "https://www.doofootball.com/dootv/live/foxsports1usa#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsports1usa",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsports2usa",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030426-tv-station_Fox-Sports-2-(US).png",
+"url": "https://www.doofootball.com/dootv/live/foxsports2usa#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsports2usa",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport2nl",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030531-tv-station_Fox-Sports-2-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport2nl#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport2nl",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport3nl",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030551-tv-station_Fox-Sports-3-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport3nl#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport3nl",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport4nl",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030617-tv-station_Fox-Sports-4-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport4nl#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport4nl",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport5nl",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030637-tv-station_Fox-Sports-5-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport5nl#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport5nl",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxsport1nl",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030739-tv-station_Fox-Sports-1-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/foxsport1nl#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxsport1nl",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "mutv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030846-tv-station_MUTV-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/mutv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/mutv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skynetsporthd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032224-tv-station_SKYNET-Sports-HD.png",
+"url": "https://www.doofootball.com/dootv/live/skynetsporthd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skynetsporthd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skynetsport1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032248-tv-station_Sky-sport-1-(DE).png",
+"url": "https://www.doofootball.com/dootv/live/skynetsport1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skynetsport1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportmainevent",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032335-tv-station_Sky-Sports-Main-Event-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportmainevent#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportmainevent",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportaction",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032420-tv-station_Sky-Sports-Action-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportaction#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportaction",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportfootball",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032511-tv-station_Sky-Sports-Football-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportfootball#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportfootball",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportpremiere",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032537-tv-station_Sky-Sports-Premier-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportpremiere#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportpremiere",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportarena",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032620-tv-station_Sky-Sports-Areana-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportarena#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportarena",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportf1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032708-tv-station_Sky-Sports-F1-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportf1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportf1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "skysportmix",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032806-tv-station_Sky-Sports-Mix-(UK).png",
+"url": "https://www.doofootball.com/dootv/live/skysportmix#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/skysportmix",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "sporttv1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-050551-tv-station_Sport-TV-1-(PT).png",
+"url": "https://www.doofootball.com/dootv/live/sporttv1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/sporttv1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "sporttv2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-050608-tv-station_Sport-TV-2-(PT).png",
+"url": "https://www.doofootball.com/dootv/live/sporttv2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/sporttv2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "sporttv3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010142-tv-station_Sport-TV-3-(PT).png",
+"url": "https://www.doofootball.com/dootv/live/sporttv3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/sporttv3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "sporttv4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010204-tv-station_Sport-TV-4-(PT).png",
+"url": "https://www.doofootball.com/dootv/live/sporttv4#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/sporttv4",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "sportv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010218-tv-station_SporTV.png",
+"url": "https://www.doofootball.com/dootv/live/sportv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/sportv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "telekomsport1ro",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010342-tv-station_telekomsport1-(RO).png",
+"url": "https://www.doofootball.com/dootv/live/telekomsport1ro#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/telekomsport1ro",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "uefatv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010507-tv-station_UEFA-TV.png",
+"url": "https://www.doofootball.com/dootv/live/uefatv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/uefatv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "ziggosportselect",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010551-tv-station_ZIGGO-Sport-Select-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/ziggosportselect#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/ziggosportselect",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "ziggosportvoetbal",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010629-tv-station_ZIGGO-Sport-Voetbal-(NL).png",
+"url": "https://www.doofootball.com/dootv/live/ziggosportvoetbal#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/ziggosportvoetbal",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "lfctv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051449-lfctv.png",
+"url": "https://www.doofootball.com/dootv/live/lfctv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/lfctv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "gmm25",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052036-gmm25.png",
+"url": "https://www.doofootball.com/dootv/live/gmm25#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/gmm25",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "mono29",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-124029-tv-station_Mono29.png",
+"url": "https://www.doofootball.com/dootv/live/mono29#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/mono29",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "3hd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121431-tv-station_CH-3-HD.png",
+"url": "https://www.doofootball.com/dootv/live/3hd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/3hd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "tsports",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-120524-tv-station_TSports-Channels.png",
+"url": "https://www.doofootball.com/dootv/live/tsports#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/tsports",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "5hd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121444-tv-station_CH-5-HD-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/5hd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/5hd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "thaipbs",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-120639-tv-station_Thai-PBS.png",
+"url": "https://www.doofootball.com/dootv/live/thaipbs#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/thaipbs",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "7hd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121456-tv-station_CH7-HD.png",
+"url": "https://www.doofootball.com/dootv/live/7hd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/7hd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "pptv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-121449-tv-station_PPTV-HD.png",
+"url": "https://www.doofootball.com/dootv/live/pptv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/pptv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "mcot",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-030527-tv-station_MCOT.png",
+"url": "https://www.doofootball.com/dootv/live/mcot#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/mcot",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "newtv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-015859-JKN18 logo.png",
+"url": "https://www.doofootball.com/dootv/live/newtv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/newtv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "true4u",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-011834-tv-station_True-4-U.png",
+"url": "https://www.doofootball.com/dootv/live/true4u#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/true4u",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "nbt",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-123646-tv-station_NBT-TH.png",
+"url": "https://www.doofootball.com/dootv/live/nbt#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/nbt",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "ch8",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-020821-tv-station_Channel-8-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/ch8#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/ch8",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "nbt",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-011852-tv-station_NBT-TH.png",
+"url": "https://www.doofootball.com/dootv/live/nbt#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/nbt",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "amarin",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-022954-tv-station_Amarin-HD.png",
+"url": "https://www.doofootball.com/dootv/live/amarin#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/amarin",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "thairath",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-125911-tv-station_thairath-tv.png",
+"url": "https://www.doofootball.com/dootv/live/thairath#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/thairath",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "nation",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-021209-tv-station_Nation-Channel.png",
+"url": "https://www.doofootball.com/dootv/live/nation#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/nation",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "workpoint",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-011402-tv-station_Workpoint.png",
+"url": "https://www.doofootball.com/dootv/live/workpoint#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/workpoint",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "pptv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-021552-tv-station_PPTV-HD.png",
+"url": "https://www.doofootball.com/dootv/live/pptv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/pptv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "thaipbs",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-021751-tv-station_Thai-PBS.png",
+"url": "https://www.doofootball.com/dootv/live/thaipbs#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/thaipbs",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "tnn",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-022129-tv-station_TNN16.png",
+"url": "https://www.doofootball.com/dootv/live/tnn#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/tnn",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "voicetv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-022827-tv-station_Voice-(TH).png",
+"url": "https://www.doofootball.com/dootv/live/voicetv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/voicetv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "onehd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052055-one31.png",
+"url": "https://www.doofootball.com/dootv/live/onehd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/onehd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "hbohd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",
+"url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/hbohd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "hbofamily",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png",
+"url": "https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/hbofamily",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "hbohit",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051803-HBO-hits.png",
+"url": "https://www.doofootball.com/dootv/live/hbohit#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/hbohit",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "hbosignature",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051810-HBO-signature.png",
+"url": "https://www.doofootball.com/dootv/live/hbosignature#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/hbosignature",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "cinemax",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051823-cine-max.png",
+"url": "https://www.doofootball.com/dootv/live/cinemax#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/cinemax",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxthai",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051829-FOXไทย.png",
+"url": "https://www.doofootball.com/dootv/live/foxthai#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxthai",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxactionmovie",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051850-FOX-actionmovies.png",
+"url": "https://www.doofootball.com/dootv/live/foxactionmovie#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxactionmovie",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxmovie",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051856-FOX-premium.png",
+"url": "https://www.doofootball.com/dootv/live/foxmovie#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxmovie",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "wbtv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051909-wb-TV.png",
+"url": "https://www.doofootball.com/dootv/live/wbtv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/wbtv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "trueseries",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051931-true-series.png",
+"url": "https://www.doofootball.com/dootv/live/trueseries#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/trueseries",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "asianseries",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051938-true-asianseries.png",
+"url": "https://www.doofootball.com/dootv/live/asianseries#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/asianseries",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "moviehits",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051945-true-movie-hits.png",
+"url": "https://www.doofootball.com/dootv/live/moviehits#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/moviehits",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "hitsmovie",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051953-HIT-MOVIES.png",
+"url": "https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/hitsmovie",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxmovie",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052011-foxfamily.png",
+"url": "https://www.doofootball.com/dootv/live/foxmovie#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxmovie",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "discovery",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051509-discovery-channel.png",
+"url": "https://www.doofootball.com/dootv/live/discovery#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/discovery",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "discoveryasia",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051526-Discovery-asia.png",
+"url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/discoveryasia",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "natgeo",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051547-national-geographic.png",
+"url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/natgeo",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "natgeowild",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051608-national-geo-WILD.png",
+"url": "https://www.doofootball.com/dootv/live/natgeowild#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/natgeowild",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "animalplanet",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051622-animalplanet.png",
+"url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/animalplanet",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "history",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051634-CLONE.png",
+"url": "https://www.doofootball.com/dootv/live/history#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/history",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "paramount",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051654-paramount.png",
+"url": "https://www.doofootball.com/dootv/live/paramount#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/paramount",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truesci",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png",
+"url": "https://www.doofootball.com/dootv/live/truesci#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesci",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "disneyxd",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051251-disney+.png",
+"url": "https://www.doofootball.com/dootv/live/disneyxd#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/disneyxd",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "nickjr",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051307-nick-jr.png",
+"url": "https://www.doofootball.com/dootv/live/nickjr#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/nickjr",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "truesparkjump",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051352-true-sprk-jump.png",
+"url": "https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesparkjump",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "aniplus",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051409-aniplus.png",
+"url": "https://www.doofootball.com/dootv/live/aniplus#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/aniplus",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxfamily",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051421-foxfamily.png",
+"url": "https://www.doofootball.com/dootv/live/foxfamily#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxfamily",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foodnetwork",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052114-food-network.png",
+"url": "https://www.doofootball.com/dootv/live/foodnetwork#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foodnetwork",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "tlc",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052119-TLC.png",
+"url": "https://www.doofootball.com/dootv/live/tlc#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/tlc",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "gem",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052125-GEM.png",
+"url": "https://www.doofootball.com/dootv/live/gem#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/gem",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "wakuwakujapan",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052141-wakuwaku-JAPAN.png",
+"url": "https://www.doofootball.com/dootv/live/wakuwakujapan#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/wakuwakujapan",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "foxlife",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052149-FOX-life.png",
+"url": "https://www.doofootball.com/dootv/live/foxlife#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/foxlife",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "tvn",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052246-TVN.png",
+"url": "https://www.doofootball.com/dootv/live/tvn#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/tvn",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "blueant",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052213-blue-ant-MEDIA.png",
+"url": "https://www.doofootball.com/dootv/live/blueant#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/blueant",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "blueantextream",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052218-blueant-extreme.png",
+"url": "https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/blueantextream",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "fashiontv",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-043303-fashiontv.png",
+"url": "https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/fashiontv",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "axn",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052226-AXN.png",
+"url": "https://www.doofootball.com/dootv/live/axn#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/axn",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "afc",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-051000-afn.png",
+"url": "https://www.doofootball.com/dootv/live/afc#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/afc",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+]
+}
