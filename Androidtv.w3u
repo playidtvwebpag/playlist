@@ -1,0 +1,20 @@
+{
+"name": "เลือกแบบเล่น",
+"author": "มี2แบบ",
+"image": "https://dl.dropbox.com/s/kgjib3gbca6gice/20220124_1433251.gif?dl=0",
+"url": "",
+"groups": [
+{
+"name": "dooball66embed",
+"image": "https://dl.dropbox.com/s/9yu3ujbgzm6w939/tvshow1.png?dl=0",
+"url": "https://raw.githubusercontent.com/Playidturl1/playlist/main/dooball66embedtv.w3u",
+"import": false
+},
+{
+"name": "dooball",
+"image": "https://dl.dropbox.com/s/4c5za9t106hesia/kylveave.png?dl=0",
+"url": "https://raw.githubusercontent.com/Playidturl1/playlist/main/doofootball.w3u",
+"import": false
+},
+]
+}
