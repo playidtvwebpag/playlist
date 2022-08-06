@@ -1,0 +1,439 @@
+{
+"name":"ช่องกีฬา1",
+"author": "อัพเดท6/ส.ค65เวลา00:48",
+"image": "https://dl.dropboxusercontent.com/s/0xgmtlz9rm8n52q/20220506_183335.png",
+"url": "",
+"groups":
+[
+{"name":"TPF HD1","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012819-tv-station_True-Premier-HD-1.png",
+stations:[
+{
+"name": "TPFHD1",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012819-tv-station_True-Premier-HD-1.png",
+"url": "https://www.doofootball.com/dootv/live/epl1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{"name":"TPFHD1","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012819-tv-station_True-Premier-HD-1.png",
+"url": "https://ballsodhd.com/player/live.php?ch=epl-1",
+"referer": "https://ballsodhd.com/player/live.php?ch=epl-1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{"name":"TPFHD1","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012819-tv-station_True-Premier-HD-1.png",
+"url": "https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.siammovie-hd.com"},
+]},
+
+{"name":"TPF HD2","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012910-tv-station_True-Premier-HD-2.png",
+stations:[
+{
+"name": "TPF HD2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012910-tv-station_True-Premier-HD-2.png",
+"url": "https://ballsodhd.com/player/live.php?ch=epl-2",
+"referer": "https://ballsodhd.com/player/live.php?ch=epl-2",
+"info": "PLAYIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},
+{
+"name": "TPF HD2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012910-tv-station_True-Premier-HD-2.png",
+"url": "https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+"referer": "https://www.siammovie-hd.com",
+"info": "PlayIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},
+]},
+{"name":"TPF HD3","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png",
+stations:[
+
+{
+"name": "TPF HD3",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png",
+"url": "https://www.doofootball.com/dootv/live/epl3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "TPF HD3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png",
+"url": "https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8",
+"referer": "https://www.siammovie-hd.com",
+"info": "PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+
+{"name":"TPF HD4","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012953-tv-station_True-Premier-HD-4.png",
+stations:[
+{
+"name": "TPF HD4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012953-tv-station_True-Premier-HD-4.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TPF HD4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012953-tv-station_True-Premier-HD-4.png",
+"url": "https://www.doofootball.com/dootv/live/epl4#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl4",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+]},
+{"name":"TPL HD5","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-013009-tv-station_True-Premier-HD-5.png",
+stations:[
+
+{
+"name": "TPF HD5",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-013009-tv-station_True-Premier-HD-5.png",
+"url": "https://www.doofootball.com/dootv/live/epl5#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/epl5",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},]},
+
+{"name":"TRUESPORTHD","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+stations:[
+{
+"name": "TRUESPORTHD",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TRUESPORTHD",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+"url": "https://embed.dooball66.com/player.php?channel=tsporthd1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUESPORTHD2","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-010714-tv-station_True-Sport-HD2.png",
+stations:[
+{
+"name": "True Sport HD2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-010714-tv-station_True-Sport-HD2.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "True Sport HD2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-010714-tv-station_True-Sport-HD2.png",
+"url": "https://www.doofootball.com/dootv/live/truesporthd2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesporthd2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "True Sport HD2",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-010714-tv-station_True-Sport-HD2.png",
+"url": "https://embed.dooball66.com/player.php?channel=tsporthd2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUESPORTHD3","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-090950-tv-station_True-Sport-HD3.png",
+stations:[
+{
+"name": "TRUESPORTHD3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-090950-tv-station_True-Sport-HD3.png",
+"url": "https://www.doofootball.com/dootv/live/truesporthd3#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truesporthd3",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "TRUESPORTHD3",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-090950-tv-station_True-Sport-HD3.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUESPORTHD4","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+stations:[
+{
+"name": "True Sport HD4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+"url": "https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8",
+"referer": "https://www.i-moviehd.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TRUESPORTHD4",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},]},
+
+{"name":"TSPORT5","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011054-tv-station_True-sport-5.png",
+stations:[
+{
+"name": "TSPORT5",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011054-tv-station_True-sport-5.png",
+"url": "https://mhd-01.ddns.net/mdb_app/tsp5/playlist.m3u8",
+"referer": "https://moodooball.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TSPORT5",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011054-tv-station_True-sport-5.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},]},
+{"name":"TSPORT7","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011125-tv-station_True-sport-7.png",
+stations:[
+{
+"name": "True Sport7",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011125-tv-station_True-sport-7.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUETENNIS","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105042-true-tennis-hd.png",
+stations:[
+{
+"name": "True Tennis",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105042-true-tennis-hd.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "True Tennis",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105042-true-tennis-hd.png",
+"url": "https://www.doofootball.com/dootv/live/truetennis#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/truetennis",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "True Tennis",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105042-true-tennis-hd.png",
+"url": "https://embed.dooball66.com/player.php?channel=tennis&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},]},
+{"name":"TRUE NBA","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-075143-tv-station_NBA.png",
+stations:[
+{
+"name": "TRUE NBA",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-075143-tv-station_NBA.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TRUE NBA",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-075143-tv-station_NBA.png",
+"url": "https://www.doofootball.com/dootv/live/truenba#main_dootv",
+"referer": "https://www.doofootball.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUE GOLF","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105107-golf-channel.png",
+stations:[
+{
+"name": "Golf Channel Thailand2",
+"image": "https://overseer.blackboxsys.net/images/png/gd-golf2.png",
+"url": "https://embed.dooball66.com/player.php?channel=hd-golf2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TRUE GOLF",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105107-golf-channel.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "TRUE GOLF",
+"image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105107-golf-channel.png",
+"url": "https://embed.dooball66.com/player.php?channel=hd-golf&api_key=hmcb4rf66f",
+"referer": "https://https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},]},
+
+{"name":"SPORTS","image":"https://overseer.blackboxsys.net/images/png/hd-spotv.png",
+stations:[
+{
+"name": "SPORTS-END",
+"image": "https://overseer.blackboxsys.net/images/png/hd-spotv.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv-eng&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "SPORTS HD1",
+"image": "https://overseer.blackboxsys.net/images/png/hd-spotv.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv-eng&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "SPORTS HD2",
+"image": "https://overseer.blackboxsys.net/images/png/hd-spotv.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmcb4rf66f",
+"referer": "https://https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},]},
+
+{"name":"NFL NETWORK","image":"https://overseer.blackboxsys.net/images/png/hd-nfl.png",
+stations:[
+{
+"name": "NFL",
+"image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nfl&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},
+{
+"name": "NFL",
+"image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nfl&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"GAMINGUP","image":"https://overseer.blackboxsys.net/images/png/hd-gamingup.png",
+stations:[
+{
+"name": "GAMINGUP",
+"image": "https://overseer.blackboxsys.net/images/png/hd-gamingup.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-gamingup&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUEID-STATION","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010814-tv-station_TrueID-station.png",
+stations:[
+{
+"name": "True iD Station",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010814-tv-station_TrueID-station.png",
+"url": "https://tv.trueid.net/embed/idstation",
+referer: "https://tv.trueid.net/embed/idstation","embed": "true", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+{
+"name": "True iD Station",
+"image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010814-tv-station_TrueID-station.png",
+"url": "https://www.doofootball.com/dootv/live/trueidstation#main_dootv",
+"referer": "https://www.doofootball.com",
+"info": "PlayIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},]},
+{"name":"TRUEBEIN 1-5 ","image":"https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-125801-tv-station_Thai-BeIN-Sports-1.png",
+stations:[
+
+{
+"name": "Bein Sports 1 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",
+"url": "https://www.doofootball.com/dootv/live/bein1#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/bein1",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "Bein Sports 2 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",
+"url": "https://www.doofootball.com/dootv/live/bein2#main_dootv",
+"referer": "https://www.doofootball.com/dootv/live/bein2",
+"origin": "https://www.doofootball.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "Bein Sports 3 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",
+"url": "https://streaming.iamtheme.com:30443/cloudstreaming/bein-sport-3-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIyIDU6NDk6MjQgUE0maGFzaF92YWx1ZT11dUVxQnNDSjJ3dEg1c0JuSEoxRWlRPT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://doolive4k.tv",
+"info": "PlayIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},
+{
+"name": "Bein Sports 3 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/20/ac8aed30-19df-11ec-8f0e-b95f953d3ae2_webp_320.png",
+"url": "https://www.ufa77.tv/channel?ch=bein3",
+"referer": "https://www.ufa77.tv",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},
+{
+"name": "Bein Sports 4 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/20/afb3a470-19df-11ec-8f0e-b95f953d3ae2_webp_320.png",
+"url": "https://www.ufa77.tv/channel?ch=bein4",
+"referer": "https://www.ufa77.tv",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},
+{
+"name": "Bein Sports 5 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/20/afb48ed0-19df-11ec-9231-7b4ced80be66_webp_320.png",
+"url": "https://www.ufa77.tv/channel?ch=bein5",
+"referer": "https://www.ufa77.tv",
+"info": " PlayIDTV",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+playInNatPlayer: "true"
+},
+]
+
+},
+]
+}
+
+
+
+
+
+
+
