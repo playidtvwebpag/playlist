@@ -4,7 +4,5 @@
 https://live.moviethai4u.com/02_PremierHD1_480p/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,RESOLUTION=1280x720,NAME="720p"
 https://live.moviethai4u.com/02_PremierHD1_720p/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2346108,RESOLUTION=1280x720,CODECS="avc1.42e01f,mp4a.40.2"
-https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1920x1080,NAME="1080p"
 https://cdn.googlecdnforstreaming.live/dbf789/epl1/chunks.m3u8
