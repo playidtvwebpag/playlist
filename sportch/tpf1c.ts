@@ -2,5 +2,3 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1920x1080,NAME="1080p"
 https://cdn.googlecdnforstreaming.live/dbf789/epl1/chunks.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1920x1080,NAME="1080p"
-https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/playlist.m3u8
