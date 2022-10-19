@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1920x1080,NAME="1080p"
+https://freelive2.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
