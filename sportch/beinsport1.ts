@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:15055
+#EXTINF:5.999,
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:6,
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:6.001,
+l_404902_30954597_15057.ts?nimblesessionid=59506640
+#EXTINF:6,
+l_404902_30960598_15058.ts?nimblesessionid=59506640
